@@ -59,7 +59,6 @@ HEADERS = {
 # ──────────────────────────────────────────────
 mcp = FastMCP(
     name="HireAHuman",
-    on_duplicate_resources="error",
 )
 
 
